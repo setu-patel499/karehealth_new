@@ -1,0 +1,122 @@
+2022-08-04 21:08:949 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 21:08:273 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 21:08:357 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 21:08:740 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 21:08:915 INFO  LoginPage :31 - Enter username [[ChromeDriver: chrome on WINDOWS (6e57d386a0e0f0bc10a43953494dbb08)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]] to username field [[ChromeDriver: chrome on WINDOWS (6e57d386a0e0f0bc10a43953494dbb08)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]]
+2022-08-04 21:08:970 INFO  LoginPage :35 - Enter Password admin to email field [[ChromeDriver: chrome on WINDOWS (6e57d386a0e0f0bc10a43953494dbb08)] -> xpath: //body/div[1]/div[2]/form[1]/div[2]/input[1]]
+2022-08-04 21:08:569 INFO  LoginPage :39 - Clicking on loginLink [[ChromeDriver: chrome on WINDOWS (6e57d386a0e0f0bc10a43953494dbb08)] -> xpath: //button[contains(text(),'Login')]]
+2022-08-04 21:08:943 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 21:08:454 INFO  LoginPage :32 - Enter username [[ChromeDriver: chrome on WINDOWS (9780f18b39e318100cd315743d873816)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]] to username field [[ChromeDriver: chrome on WINDOWS (9780f18b39e318100cd315743d873816)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]]
+2022-08-04 21:08:527 INFO  LoginPage :36 - Enter Password admin to email field [[ChromeDriver: chrome on WINDOWS (9780f18b39e318100cd315743d873816)] -> xpath: //body/div[1]/div[2]/form[1]/div[2]/input[1]]
+2022-08-04 21:08:767 INFO  LoginPage :40 - Clicking on loginLink [[ChromeDriver: chrome on WINDOWS (9780f18b39e318100cd315743d873816)] -> xpath: //button[contains(text(),'Login')]]
+2022-08-04 21:08:83 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 21:08:979 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 21:08:433 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 21:08:962 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 21:08:905 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 21:08:203 INFO  LoginPage :32 - Enter username [[ChromeDriver: chrome on WINDOWS (345edeac97441a07cf9acbff31b6d31a)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]] to username field [[ChromeDriver: chrome on WINDOWS (345edeac97441a07cf9acbff31b6d31a)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]]
+2022-08-04 21:08:268 INFO  LoginPage :36 - Enter Password admin to email field [[ChromeDriver: chrome on WINDOWS (345edeac97441a07cf9acbff31b6d31a)] -> xpath: //body/div[1]/div[2]/form[1]/div[2]/input[1]]
+2022-08-04 21:08:231 INFO  LoginPage :40 - Clicking on loginLink [[ChromeDriver: chrome on WINDOWS (345edeac97441a07cf9acbff31b6d31a)] -> xpath: //button[contains(text(),'Login')]]
+2022-08-04 21:08:438 INFO  DashBoardPage :23 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (345edeac97441a07cf9acbff31b6d31a)] -> xpath: //body/div[1]/aside[1]/section[1]/ul[1]/li[25]/a[1]/i[1]]
+2022-08-04 22:08:412 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 22:08:105 INFO  LoginPage :32 - Enter username [[ChromeDriver: chrome on WINDOWS (8f3d2b3f568fb96f320ab0a0cd19f08f)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]] to username field [[ChromeDriver: chrome on WINDOWS (8f3d2b3f568fb96f320ab0a0cd19f08f)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]]
+2022-08-04 22:08:161 INFO  LoginPage :36 - Enter Password admin to email field [[ChromeDriver: chrome on WINDOWS (8f3d2b3f568fb96f320ab0a0cd19f08f)] -> xpath: //body/div[1]/div[2]/form[1]/div[2]/input[1]]
+2022-08-04 22:08:68 INFO  LoginPage :40 - Clicking on loginLink [[ChromeDriver: chrome on WINDOWS (8f3d2b3f568fb96f320ab0a0cd19f08f)] -> xpath: //button[contains(text(),'Login')]]
+2022-08-04 22:08:279 INFO  DashBoardPage :23 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (8f3d2b3f568fb96f320ab0a0cd19f08f)] -> xpath: //body/div[1]/aside[1]/section[1]/ul[1]/li[25]/a[1]/i[1]]
+2022-08-04 22:08:868 INFO  BloodGroupPage :35 - MouseHoverAndClicking on loginLink [[ChromeDriver: chrome on WINDOWS (8f3d2b3f568fb96f320ab0a0cd19f08f)] -> xpath: //tbody/tr[1]/td[5]/div[1]/a[1]]
+2022-08-04 22:08:22 INFO  BloodGroupPage :39 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (8f3d2b3f568fb96f320ab0a0cd19f08f)] -> xpath: //tbody/tr[1]/td[5]/div[1]/ul[1]/li[1]/a[1]]
+2022-08-04 22:08:650 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 22:08:141 INFO  LoginPage :32 - Enter username [[ChromeDriver: chrome on WINDOWS (3147e81e973d3d9bc1ce50233565cf8a)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]] to username field [[ChromeDriver: chrome on WINDOWS (3147e81e973d3d9bc1ce50233565cf8a)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]]
+2022-08-04 22:08:221 INFO  LoginPage :36 - Enter Password admin to email field [[ChromeDriver: chrome on WINDOWS (3147e81e973d3d9bc1ce50233565cf8a)] -> xpath: //body/div[1]/div[2]/form[1]/div[2]/input[1]]
+2022-08-04 22:08:393 INFO  LoginPage :40 - Clicking on loginLink [[ChromeDriver: chrome on WINDOWS (3147e81e973d3d9bc1ce50233565cf8a)] -> xpath: //button[contains(text(),'Login')]]
+2022-08-04 22:08:653 INFO  DashBoardPage :23 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (3147e81e973d3d9bc1ce50233565cf8a)] -> xpath: //body/div[1]/aside[1]/section[1]/ul[1]/li[25]/a[1]/i[1]]
+2022-08-04 22:08:130 INFO  BloodGroupPage :35 - MouseHoverAndClicking on loginLink [[ChromeDriver: chrome on WINDOWS (3147e81e973d3d9bc1ce50233565cf8a)] -> xpath: //tbody/tr[1]/td[5]/div[1]/a[1]]
+2022-08-04 22:08:291 INFO  BloodGroupPage :39 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (3147e81e973d3d9bc1ce50233565cf8a)] -> xpath: //tbody/tr[1]/td[5]/div[1]/ul[1]/li[1]/a[1]]
+2022-08-04 22:08:946 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 22:08:96 INFO  LoginPage :32 - Enter username [[ChromeDriver: chrome on WINDOWS (98c9ef8faee616f0780f723198fed8a5)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]] to username field [[ChromeDriver: chrome on WINDOWS (98c9ef8faee616f0780f723198fed8a5)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]]
+2022-08-04 22:08:151 INFO  LoginPage :36 - Enter Password admin to email field [[ChromeDriver: chrome on WINDOWS (98c9ef8faee616f0780f723198fed8a5)] -> xpath: //body/div[1]/div[2]/form[1]/div[2]/input[1]]
+2022-08-04 22:08:994 INFO  LoginPage :40 - Clicking on loginLink [[ChromeDriver: chrome on WINDOWS (98c9ef8faee616f0780f723198fed8a5)] -> xpath: //button[contains(text(),'Login')]]
+2022-08-04 22:08:196 INFO  DashBoardPage :23 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (98c9ef8faee616f0780f723198fed8a5)] -> xpath: //body/div[1]/aside[1]/section[1]/ul[1]/li[25]/a[1]/i[1]]
+2022-08-04 22:08:701 INFO  BloodGroupPage :35 - MouseHoverAndClicking on loginLink [[ChromeDriver: chrome on WINDOWS (98c9ef8faee616f0780f723198fed8a5)] -> xpath: //tbody/tr[1]/td[5]/div[1]/a[1]]
+2022-08-04 22:08:871 INFO  BloodGroupPage :39 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (98c9ef8faee616f0780f723198fed8a5)] -> xpath: //tbody/tr[1]/td[5]/div[1]/ul[1]/li[1]/a[1]]
+2022-08-04 22:08:21 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 22:08:144 INFO  LoginPage :32 - Enter username [[ChromeDriver: chrome on WINDOWS (8081e6aeca18c9f9a6fedabd73ed3045)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]] to username field [[ChromeDriver: chrome on WINDOWS (8081e6aeca18c9f9a6fedabd73ed3045)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]]
+2022-08-04 22:08:200 INFO  LoginPage :36 - Enter Password admin to email field [[ChromeDriver: chrome on WINDOWS (8081e6aeca18c9f9a6fedabd73ed3045)] -> xpath: //body/div[1]/div[2]/form[1]/div[2]/input[1]]
+2022-08-04 22:08:122 INFO  LoginPage :40 - Clicking on loginLink [[ChromeDriver: chrome on WINDOWS (8081e6aeca18c9f9a6fedabd73ed3045)] -> xpath: //button[contains(text(),'Login')]]
+2022-08-04 22:08:331 INFO  DashBoardPage :23 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (8081e6aeca18c9f9a6fedabd73ed3045)] -> xpath: //body/div[1]/aside[1]/section[1]/ul[1]/li[25]/a[1]/i[1]]
+2022-08-04 22:08:810 INFO  BloodGroupPage :35 - MouseHoverAndClicking on loginLink [[ChromeDriver: chrome on WINDOWS (8081e6aeca18c9f9a6fedabd73ed3045)] -> xpath: //tbody/tr[1]/td[5]/div[1]/a[1]]
+2022-08-04 22:08:986 INFO  BloodGroupPage :39 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (8081e6aeca18c9f9a6fedabd73ed3045)] -> xpath: //tbody/tr[1]/td[5]/div[1]/ul[1]/li[1]/a[1]]
+2022-08-04 22:08:859 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 22:08:25 INFO  LoginPage :32 - Enter username [[ChromeDriver: chrome on WINDOWS (0003216e1139cc3e144553a0702e223f)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]] to username field [[ChromeDriver: chrome on WINDOWS (0003216e1139cc3e144553a0702e223f)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]]
+2022-08-04 22:08:78 INFO  LoginPage :36 - Enter Password admin to email field [[ChromeDriver: chrome on WINDOWS (0003216e1139cc3e144553a0702e223f)] -> xpath: //body/div[1]/div[2]/form[1]/div[2]/input[1]]
+2022-08-04 22:08:958 INFO  LoginPage :40 - Clicking on loginLink [[ChromeDriver: chrome on WINDOWS (0003216e1139cc3e144553a0702e223f)] -> xpath: //button[contains(text(),'Login')]]
+2022-08-04 22:08:164 INFO  DashBoardPage :23 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (0003216e1139cc3e144553a0702e223f)] -> xpath: //body/div[1]/aside[1]/section[1]/ul[1]/li[25]/a[1]/i[1]]
+2022-08-04 22:08:670 INFO  BloodGroupPage :35 - MouseHoverAndClicking on loginLink [[ChromeDriver: chrome on WINDOWS (0003216e1139cc3e144553a0702e223f)] -> xpath: //tbody/tr[1]/td[5]/div[1]/a[1]]
+2022-08-04 22:08:842 INFO  BloodGroupPage :39 - MouseHoverAndClick on edit btn: [[ChromeDriver: chrome on WINDOWS (0003216e1139cc3e144553a0702e223f)] -> xpath: //tbody/tr[1]/td[5]/div[1]/ul[1]/li[1]/a[1]]
+2022-08-04 22:08:884 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 22:08:16 INFO  LoginPage :32 - Enter username [[ChromeDriver: chrome on WINDOWS (cc944d4268751943f5a84598db384470)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]] to username field [[ChromeDriver: chrome on WINDOWS (cc944d4268751943f5a84598db384470)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]]
+2022-08-04 22:08:65 INFO  LoginPage :36 - Enter Password admin to email field [[ChromeDriver: chrome on WINDOWS (cc944d4268751943f5a84598db384470)] -> xpath: //body/div[1]/div[2]/form[1]/div[2]/input[1]]
+2022-08-04 22:08:08 INFO  LoginPage :40 - Clicking on loginLink [[ChromeDriver: chrome on WINDOWS (cc944d4268751943f5a84598db384470)] -> xpath: //button[contains(text(),'Login')]]
+2022-08-04 22:08:212 INFO  DashBoardPage :23 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (cc944d4268751943f5a84598db384470)] -> xpath: //body/div[1]/aside[1]/section[1]/ul[1]/li[25]/a[1]/i[1]]
+2022-08-04 22:08:691 INFO  BloodGroupPage :35 - MouseHoverAndClicking on loginLink [[ChromeDriver: chrome on WINDOWS (cc944d4268751943f5a84598db384470)] -> xpath: //tbody/tr[1]/td[5]/div[1]/a[1]]
+2022-08-04 22:08:862 INFO  BloodGroupPage :39 - MouseHoverAndClick on edit btn: [[ChromeDriver: chrome on WINDOWS (cc944d4268751943f5a84598db384470)] -> xpath: //tbody/tr[1]/td[5]/div[1]/ul[1]/li[1]/a[1]]
+2022-08-04 22:08:772 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 22:08:256 INFO  LoginPage :32 - Enter username [[ChromeDriver: chrome on WINDOWS (6999e9298ef53c3c5df0e618415114ab)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]] to username field [[ChromeDriver: chrome on WINDOWS (6999e9298ef53c3c5df0e618415114ab)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]]
+2022-08-04 22:08:314 INFO  LoginPage :36 - Enter Password admin to email field [[ChromeDriver: chrome on WINDOWS (6999e9298ef53c3c5df0e618415114ab)] -> xpath: //body/div[1]/div[2]/form[1]/div[2]/input[1]]
+2022-08-04 22:08:116 INFO  LoginPage :40 - Clicking on loginLink [[ChromeDriver: chrome on WINDOWS (6999e9298ef53c3c5df0e618415114ab)] -> xpath: //button[contains(text(),'Login')]]
+2022-08-04 22:08:337 INFO  DashBoardPage :23 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (6999e9298ef53c3c5df0e618415114ab)] -> xpath: //body/div[1]/aside[1]/section[1]/ul[1]/li[25]/a[1]/i[1]]
+2022-08-04 22:08:872 INFO  BloodGroupPage :35 - MouseHoverAndClicking on loginLink [[ChromeDriver: chrome on WINDOWS (6999e9298ef53c3c5df0e618415114ab)] -> xpath: //tbody/tr[1]/td[5]/div[1]/a[1]]
+2022-08-04 22:08:51 INFO  BloodGroupPage :39 - MouseHoverAndClick on edit btn: [[ChromeDriver: chrome on WINDOWS (6999e9298ef53c3c5df0e618415114ab)] -> xpath: //tbody/tr[1]/td[5]/div[1]/ul[1]/li[1]/a[1]]
+2022-08-04 22:08:496 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 22:08:657 INFO  LoginPage :32 - Enter username [[ChromeDriver: chrome on WINDOWS (49d533fb558639f5f7fd25c72cb28ed8)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]] to username field [[ChromeDriver: chrome on WINDOWS (49d533fb558639f5f7fd25c72cb28ed8)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]]
+2022-08-04 22:08:708 INFO  LoginPage :36 - Enter Password admin to email field [[ChromeDriver: chrome on WINDOWS (49d533fb558639f5f7fd25c72cb28ed8)] -> xpath: //body/div[1]/div[2]/form[1]/div[2]/input[1]]
+2022-08-04 22:08:702 INFO  LoginPage :40 - Clicking on loginLink [[ChromeDriver: chrome on WINDOWS (49d533fb558639f5f7fd25c72cb28ed8)] -> xpath: //button[contains(text(),'Login')]]
+2022-08-04 22:08:893 INFO  DashBoardPage :23 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (49d533fb558639f5f7fd25c72cb28ed8)] -> xpath: //body/div[1]/aside[1]/section[1]/ul[1]/li[25]/a[1]/i[1]]
+2022-08-04 22:08:413 INFO  BloodGroupPage :35 - MouseHoverAndClicking on loginLink [[ChromeDriver: chrome on WINDOWS (49d533fb558639f5f7fd25c72cb28ed8)] -> xpath: //tbody/tr[1]/td[5]/div[1]/a[1]]
+2022-08-04 22:08:565 INFO  BloodGroupPage :39 - MouseHoverAndClick on edit btn: [[ChromeDriver: chrome on WINDOWS (49d533fb558639f5f7fd25c72cb28ed8)] -> xpath: //tbody/tr[1]/td[5]/div[1]/ul[1]/li[1]/a[1]]
+2022-08-04 22:08:354 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 22:08:482 INFO  LoginPage :32 - Enter username [[ChromeDriver: chrome on WINDOWS (4bc6ddad3deb267a9019d4c89319d020)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]] to username field [[ChromeDriver: chrome on WINDOWS (4bc6ddad3deb267a9019d4c89319d020)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]]
+2022-08-04 22:08:537 INFO  LoginPage :36 - Enter Password admin to email field [[ChromeDriver: chrome on WINDOWS (4bc6ddad3deb267a9019d4c89319d020)] -> xpath: //body/div[1]/div[2]/form[1]/div[2]/input[1]]
+2022-08-04 22:08:507 INFO  LoginPage :40 - Clicking on loginLink [[ChromeDriver: chrome on WINDOWS (4bc6ddad3deb267a9019d4c89319d020)] -> xpath: //button[contains(text(),'Login')]]
+2022-08-04 22:08:715 INFO  DashBoardPage :23 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (4bc6ddad3deb267a9019d4c89319d020)] -> xpath: //body/div[1]/aside[1]/section[1]/ul[1]/li[25]/a[1]/i[1]]
+2022-08-04 22:08:184 INFO  BloodGroupPage :35 - MouseHoverAndClicking on loginLink [[ChromeDriver: chrome on WINDOWS (4bc6ddad3deb267a9019d4c89319d020)] -> xpath: //tbody/tr[1]/td[5]/div[1]/a[1]]
+2022-08-04 22:08:366 INFO  BloodGroupPage :39 - MouseHoverAndClick on edit btn: [[ChromeDriver: chrome on WINDOWS (4bc6ddad3deb267a9019d4c89319d020)] -> xpath: //tbody/tr[1]/td[5]/div[1]/ul[1]/li[1]/a[1]]
+2022-08-04 22:08:721 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 22:08:160 INFO  LoginPage :32 - Enter username [[ChromeDriver: chrome on WINDOWS (6016756cc9e46c75a5ca56973e380293)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]] to username field [[ChromeDriver: chrome on WINDOWS (6016756cc9e46c75a5ca56973e380293)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]]
+2022-08-04 22:08:324 INFO  LoginPage :36 - Enter Password admin to email field [[ChromeDriver: chrome on WINDOWS (6016756cc9e46c75a5ca56973e380293)] -> xpath: //body/div[1]/div[2]/form[1]/div[2]/input[1]]
+2022-08-04 22:08:397 INFO  LoginPage :40 - Clicking on loginLink [[ChromeDriver: chrome on WINDOWS (6016756cc9e46c75a5ca56973e380293)] -> xpath: //button[contains(text(),'Login')]]
+2022-08-04 22:08:802 INFO  DashBoardPage :23 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (6016756cc9e46c75a5ca56973e380293)] -> xpath: //body/div[1]/aside[1]/section[1]/ul[1]/li[25]/a[1]/i[1]]
+2022-08-04 22:08:450 INFO  BloodGroupPage :35 - MouseHoverAndClicking on loginLink [[ChromeDriver: chrome on WINDOWS (6016756cc9e46c75a5ca56973e380293)] -> xpath: //tbody/tr[1]/td[5]/div[1]/a[1]]
+2022-08-04 22:08:29 INFO  BloodGroupPage :39 - MouseHoverAndClick on edit btn: [[ChromeDriver: chrome on WINDOWS (6016756cc9e46c75a5ca56973e380293)] -> xpath: //tbody/tr[1]/td[5]/div[1]/ul[1]/li[1]/a[1]]
+2022-08-04 22:08:436 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 22:08:444 INFO  LoginPage :32 - Enter username [[ChromeDriver: chrome on WINDOWS (108e67118fc509e446b4b476c9857908)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]] to username field [[ChromeDriver: chrome on WINDOWS (108e67118fc509e446b4b476c9857908)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]]
+2022-08-04 22:08:717 INFO  LoginPage :36 - Enter Password admin to email field [[ChromeDriver: chrome on WINDOWS (108e67118fc509e446b4b476c9857908)] -> xpath: //body/div[1]/div[2]/form[1]/div[2]/input[1]]
+2022-08-04 22:08:925 INFO  LoginPage :40 - Clicking on loginLink [[ChromeDriver: chrome on WINDOWS (108e67118fc509e446b4b476c9857908)] -> xpath: //button[contains(text(),'Login')]]
+2022-08-04 22:08:244 INFO  DashBoardPage :23 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (108e67118fc509e446b4b476c9857908)] -> xpath: //body/div[1]/aside[1]/section[1]/ul[1]/li[25]/a[1]/i[1]]
+2022-08-04 22:08:974 INFO  BloodGroupPage :35 - MouseHoverAndClicking on loginLink [[ChromeDriver: chrome on WINDOWS (108e67118fc509e446b4b476c9857908)] -> xpath: //tbody/tr[1]/td[5]/div[1]/a[1]]
+2022-08-04 22:08:259 INFO  BloodGroupPage :39 - MouseHoverAndClick on edit btn: [[ChromeDriver: chrome on WINDOWS (108e67118fc509e446b4b476c9857908)] -> xpath: //tbody/tr[1]/td[5]/div[1]/ul[1]/li[1]/a[1]]
+2022-08-04 23:08:255 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 23:08:299 INFO  LoginPage :32 - Enter username [[ChromeDriver: chrome on WINDOWS (ab3b4b80d6dd02049d2e6acf7fe1cb64)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]] to username field [[ChromeDriver: chrome on WINDOWS (ab3b4b80d6dd02049d2e6acf7fe1cb64)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]]
+2022-08-04 23:08:444 INFO  LoginPage :36 - Enter Password admin to email field [[ChromeDriver: chrome on WINDOWS (ab3b4b80d6dd02049d2e6acf7fe1cb64)] -> xpath: //body/div[1]/div[2]/form[1]/div[2]/input[1]]
+2022-08-04 23:08:572 INFO  LoginPage :40 - Clicking on loginLink [[ChromeDriver: chrome on WINDOWS (ab3b4b80d6dd02049d2e6acf7fe1cb64)] -> xpath: //button[contains(text(),'Login')]]
+2022-08-04 23:08:899 INFO  DashBoardPage :23 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (ab3b4b80d6dd02049d2e6acf7fe1cb64)] -> xpath: //body/div[1]/aside[1]/section[1]/ul[1]/li[25]/a[1]/i[1]]
+2022-08-04 23:08:497 INFO  BloodGroupPage :35 - MouseHoverAndClicking on loginLink [[ChromeDriver: chrome on WINDOWS (ab3b4b80d6dd02049d2e6acf7fe1cb64)] -> xpath: //tbody/tr[1]/td[5]/div[1]/a[1]]
+2022-08-04 23:08:765 INFO  BloodGroupPage :39 - MouseHoverAndClick on edit btn: [[ChromeDriver: chrome on WINDOWS (ab3b4b80d6dd02049d2e6acf7fe1cb64)] -> xpath: //tbody/tr[1]/td[5]/div[1]/ul[1]/li[1]/a[1]]
+2022-08-04 23:08:398 INFO  ManageDriver :33 - launching chrome browser
+2022-08-04 23:08:330 INFO  LoginPage :32 - Enter username [[ChromeDriver: chrome on WINDOWS (7bb93339103e777f0d2e18a5deb97885)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]] to username field [[ChromeDriver: chrome on WINDOWS (7bb93339103e777f0d2e18a5deb97885)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]]
+2022-08-04 23:08:448 INFO  LoginPage :36 - Enter Password admin to email field [[ChromeDriver: chrome on WINDOWS (7bb93339103e777f0d2e18a5deb97885)] -> xpath: //body/div[1]/div[2]/form[1]/div[2]/input[1]]
+2022-08-04 23:08:541 INFO  LoginPage :40 - Clicking on loginLink [[ChromeDriver: chrome on WINDOWS (7bb93339103e777f0d2e18a5deb97885)] -> xpath: //button[contains(text(),'Login')]]
+2022-08-04 23:08:881 INFO  DashBoardPage :23 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (7bb93339103e777f0d2e18a5deb97885)] -> xpath: //body/div[1]/aside[1]/section[1]/ul[1]/li[25]/a[1]/i[1]]
+2022-08-04 23:08:507 INFO  BloodGroupPage :35 - MouseHoverAndClicking on loginLink [[ChromeDriver: chrome on WINDOWS (7bb93339103e777f0d2e18a5deb97885)] -> xpath: //tbody/tr[1]/td[5]/div[1]/a[1]]
+2022-08-04 23:08:765 INFO  BloodGroupPage :39 - MouseHoverAndClick on edit btn: [[ChromeDriver: chrome on WINDOWS (7bb93339103e777f0d2e18a5deb97885)] -> xpath: //tbody/tr[1]/td[5]/div[1]/ul[1]/li[1]/a[1]]
+2022-08-04 23:08:159 INFO  BloodGroupPage :43 - MouseHoverAndClick on submit btn: [[ChromeDriver: chrome on WINDOWS (7bb93339103e777f0d2e18a5deb97885)] -> xpath: //div[@class='col-md-8']//button[@class='btn btn-primary']]
+2022-08-04 23:08:424 INFO  BloodGroupPage :48 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7bb93339103e777f0d2e18a5deb97885)] -> xpath: //h4[normalize-space()='Permission denied']]
+2022-08-05 07:08:184 INFO  ManageDriver :33 - launching chrome browser
+2022-08-05 07:08:985 INFO  LoginPage :32 - Enter username [[ChromeDriver: chrome on WINDOWS (51c761c4d93ee61ca86d850ea2eb3206)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]] to username field [[ChromeDriver: chrome on WINDOWS (51c761c4d93ee61ca86d850ea2eb3206)] -> xpath: //body/div[1]/div[2]/form[1]/div[1]/input[1]]
+2022-08-05 07:08:80 INFO  LoginPage :36 - Enter Password admin to email field [[ChromeDriver: chrome on WINDOWS (51c761c4d93ee61ca86d850ea2eb3206)] -> xpath: //body/div[1]/div[2]/form[1]/div[2]/input[1]]
+2022-08-05 07:08:91 INFO  LoginPage :40 - Clicking on loginLink [[ChromeDriver: chrome on WINDOWS (51c761c4d93ee61ca86d850ea2eb3206)] -> xpath: //button[contains(text(),'Login')]]
+2022-08-05 07:08:340 INFO  DashBoardPage :23 - MouseHoverAndClick on blood group tab: [[ChromeDriver: chrome on WINDOWS (51c761c4d93ee61ca86d850ea2eb3206)] -> xpath: //body/div[1]/aside[1]/section[1]/ul[1]/li[25]/a[1]/i[1]]
+2022-08-05 07:08:210 INFO  BloodGroupPage :35 - MouseHoverAndClicking on loginLink [[ChromeDriver: chrome on WINDOWS (51c761c4d93ee61ca86d850ea2eb3206)] -> xpath: //tbody/tr[1]/td[5]/div[1]/a[1]]
+2022-08-05 07:08:378 INFO  BloodGroupPage :39 - MouseHoverAndClick on edit btn: [[ChromeDriver: chrome on WINDOWS (51c761c4d93ee61ca86d850ea2eb3206)] -> xpath: //tbody/tr[1]/td[5]/div[1]/ul[1]/li[1]/a[1]]
+2022-08-05 07:08:789 INFO  BloodGroupPage :43 - MouseHoverAndClick on submit btn: [[ChromeDriver: chrome on WINDOWS (51c761c4d93ee61ca86d850ea2eb3206)] -> xpath: //div[@class='col-md-8']//button[@class='btn btn-primary']]
+2022-08-05 07:08:69 INFO  BloodGroupPage :48 - Getting text from : [[ChromeDriver: chrome on WINDOWS (51c761c4d93ee61ca86d850ea2eb3206)] -> xpath: //h4[normalize-space()='Permission denied']]
